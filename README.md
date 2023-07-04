@@ -41,7 +41,7 @@ First, we are going to pretend to be the end user and create tickets so we as an
 
 </p>
 <p>
-In this ticketing system we going to pick which ticket has the highest priority and by the look of it has to be the one that says online banking is down. We we click on it it shows details about the ticket which we are going to fix. The priority is going to be set on emergency because this is a business-impacting problem and we are going to assign it to system administrators because this is something the support team don't have permission to do.
+In this situation we going to pick which ticket has the highest priority and by the look of it, it has to be the one that says online banking is down. When we click on the ticket it shows details about the ticket. The priority is going to be set on emergency because this is a business-impacting problem and we are going to assign it to system administrators because this is something the support team don't have permission to do.
 </p>
 <br />
 
@@ -51,6 +51,6 @@ In this ticketing system we going to pick which ticket has the highest priority 
 
 </p>
 <p>
-Whenever we are making changes to a ticket it notifies the user what we are doing and we can communicate with them as well. Once we resolved the issues we can send a message stating the problem has been fixed and resolved the ticket. As you can see now the ticket has disappeared but we can still look at our closed tickets in case we need to remember how to solve a new one for the future.
+Whenever we are making changes to a ticket it notifies the user what we are doing and we can also communicate with them as well if we needed to. Once we resolved the issues we can send them a message stating the problem has been fixed and proceed resolving the ticket. As you can see, the ticket has disappeared but we can still look at our closed tickets in case we need to remember how to solve a new ones for the future.
 </p>
 <br />
