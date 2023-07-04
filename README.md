@@ -5,16 +5,9 @@
 <h1>osTicket - Ticket Lifecycle: Intake Through Resolution</h1>
 This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
 
-
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How to create, work, and resolves tickets within osTicket](https://www.youtube.com)
-
-<h2>Environments and Technologies Used</h2>
-
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
-- Internet Information Services (IIS)
+
 
 <h2>Operating Systems Used </h2>
 
@@ -22,33 +15,42 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Ticket Lifecycle Stages</h2>
 
-- Intake
-- Assignment and Communication
-- Working the Issue
+- Tickets being created
+- Working on the Issue
 - Resolution
 
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="628" alt="image" src="https://github.com/LeoHolguin/ticket-lifecycle/assets/138087728/783e686a-7df9-440c-8ca3-454e1d47623f">
+<img width="631" alt="image" src="https://github.com/LeoHolguin/ticket-lifecycle/assets/138087728/97195652-5bb6-4474-9dbb-a82fe9a409d8">
+<img width="716" alt="image" src="https://github.com/LeoHolguin/ticket-lifecycle/assets/138087728/aa3421b2-f9b4-4fb0-a858-811dbd4c904d">
+
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+First, we are going to pretend to be the end user and create tickets so we as an agent can resolve them. After, we are going to log in to one of the agents we created and should be able to see the tickets that were created.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="713" alt="image" src="https://github.com/LeoHolguin/ticket-lifecycle/assets/138087728/8e82c5d0-fb7c-4ea8-b09a-4bd90a3da1b8">
+<img width="716" alt="image" src="https://github.com/LeoHolguin/ticket-lifecycle/assets/138087728/824df317-3222-4718-b806-da749e36acb2">
+
+
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In this ticketing system we going to pick which ticket has the highest priority and by the look of it has to be the one that says online banking is down. We we click on it it shows details about the ticket which we are going to fix. The priority is going to be set on emergency because this is a business-impacting problem and we are going to assign it to system administrators because this is something the support team don't have permission to do.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="711" alt="image" src="https://github.com/LeoHolguin/ticket-lifecycle/assets/138087728/fe0c6a71-a1e9-4c71-a5b2-8d1f014926f3">
+<img width="720" alt="image" src="https://github.com/LeoHolguin/ticket-lifecycle/assets/138087728/2affc6f9-35d6-48dc-8bae-57b060ca7f89">
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Whenever we are making changes to a ticket it notifies the user what we are doing and we can communicate with them as well. Once we resolved the issues we can send a message stating the problem has been fixed and resolved the ticket. As you can see now the ticket has disappeared but we can still look at our closed tickets in case we need to remember how to solve a new one for the future.
 </p>
 <br />
